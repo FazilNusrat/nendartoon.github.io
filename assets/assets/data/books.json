@@ -1,0 +1,10 @@
+{
+  "books": [
+    { "id": "1", "title": "خود شناسی – خدا شناسی", "author": "جام اول", "description": "حقایقی درباره خودشناسی، خداشناسی و اسرار آفرینش", "cover_color": "#1A4B5C", "accent_color": "#C9A84C", "category": "معرفت و حکمت", "icon": "insights", "total_chapters": 6, "level": 1 },
+    { "id": "2", "title": "جمال و کمال صانع جل جلاله در مصنوعات", "author": "جام دوم", "description": "نشانه‌های جمال و کمال صانع در آفرینش انسان، اشجار، جانداران و دریا", "cover_color": "#2D4A3E", "accent_color": "#E8C97A", "category": "معرفت و حکمت", "icon": "spa", "total_chapters": 15, "level": 2 },
+    { "id": "3", "title": "سومین جام به تقویهٔ ایمان", "author": "جام سوم", "description": "روح، عقل، قلب، نفس و شناخت شیطان", "cover_color": "#4A1942", "accent_color": "#D4A843", "category": "معرفت و حکمت", "icon": "psychology", "total_chapters": 21, "level": 3 },
+    { "id": "4", "title": "انسان و فلسفهٔ امتحان", "author": "جام چهارم", "description": "فلسفهٔ امتحان انسان و راه ارتباط با خداوند", "cover_color": "#1A3A2A", "accent_color": "#C9A84C", "category": "معرفت و حکمت", "icon": "self_improvement", "total_chapters": 23, "level": 4 },
+    { "id": "5", "title": "اسرار خلقت تا بارگاه عظمت", "author": "جام پنجم", "description": "اسرار خلقت، عالم بقا و مبدأ و معاد بشر", "cover_color": "#3D1A1A", "accent_color": "#E8C97A", "category": "معرفت و حکمت", "icon": "lightbulb", "total_chapters": 32, "level": 5 },
+    { "id": "6", "title": "الفبای اسرار قرآن", "author": "جام ششم", "description": "الفبای اسرار قرآن؛ روح، نفس، عقل و عوالم آفرینش", "cover_color": "#1A2A4A", "accent_color": "#D4A843", "category": "معرفت و حکمت", "icon": "history_edu", "total_chapters": 32, "level": 6 }
+  ]
+}
